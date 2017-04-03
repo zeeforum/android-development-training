@@ -1,4 +1,4 @@
-# android-development-training
+# Android Development Training
 Android Development Courses / Useful Links for Beginner to Advance Level Collection. If you have one share with us. Share your knowledge with us.
 
 ## Getting Started
@@ -14,7 +14,7 @@ If you have not read java before, please follow the links to learn java first. Y
 * [Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046) - Udacity
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Udacity
 
-Study some important topice:
+Study some important topics:
 
 1. Exceptions
 2. Threads
