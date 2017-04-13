@@ -23,6 +23,7 @@ Study some important topics:
 
 ## Android Development
 
+* [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/) - Book
 * [Android Studio for beginners, Part 1: Installation and setup](http://www.javaworld.com/article/3095406/android/android-studio-for-beginners-part-1-installation-and-setup.html)
 * [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808) - Udacity
 * [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) - Udacity
@@ -31,3 +32,11 @@ Study some important topics:
 * [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839) - Udacity
 * [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) - Udacity
 * [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) - Udacity
+
+* [Android Training](www.vogella.com/tutorials/android.html) - Vogella Tutorials
+
+## Android Design Guides / Tutorials
+
+* [Color Palettes](https://www.materialpalette.com/colors) - Material Palettes
+* [Color Tool](https://material.io/color/) - Material Color
+* [Material Design with the Android Design Support Library](https://www.sitepoint.com/material-design-android-design-support-library/) - Material Design
