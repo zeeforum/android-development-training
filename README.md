@@ -40,3 +40,7 @@ Study some important topics:
 * [Color Palettes](https://www.materialpalette.com/colors) - Material Palettes
 * [Color Tool](https://material.io/color/) - Material Color
 * [Material Design with the Android Design Support Library](https://www.sitepoint.com/material-design-android-design-support-library/) - Material Design
+
+## Android Individual Articles
+
+* [Android - JSON Parser](https://www.tutorialspoint.com/android/android_json_parser.htm) - TutorialsPoint
